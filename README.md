@@ -26,7 +26,7 @@
 
 #### Anomaly Detection
 
-[Anomaly Detection in ECG Time signals via Deep Long Short-Term Memory Networks](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7344872)
+[Anomaly Detection in ECG Time signals via Deep Long Short-Term Memory Networks](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7344872) / DSAA 2015
 
 [LSTM-based Encoder-Decoder for Multi-sensor Anomaly Detection](https://arxiv.org/pdf/1607.00148.pdf) / ICML 2016 workshop
 
