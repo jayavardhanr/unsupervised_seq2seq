@@ -8,7 +8,9 @@
 
 -The first channel from qtdb/sel102 dataset is used.
 
-[MIT-BIH Arrhythmia Database](https://www.physionet.org/physiobank/database/mitdb/)
+[MIT-BIH Arrhythmia Database](https://www.physionet.org/physiobank/database/mitdb/) / used in [Anomaly Detection in ECG Time signals via Deep Long Short-Term Memory Networks](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7344872)
+
+-Section 3 decribes how they collect the data
 
 ## Other implementations
 
@@ -23,6 +25,8 @@
 ## References
 
 #### Anomaly Detection
+
+[Anomaly Detection in ECG Time signals via Deep Long Short-Term Memory Networks](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7344872)
 
 [LSTM-based Encoder-Decoder for Multi-sensor Anomaly Detection](https://arxiv.org/pdf/1607.00148.pdf) / ICML 2016 workshop
 
