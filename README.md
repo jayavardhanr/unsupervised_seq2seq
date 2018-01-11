@@ -1,5 +1,16 @@
 # unsupervised_seq2seq
 
+## Datasets
+
+#### ECG Database
+
+[The QT Database](https://physionet.org/physiobank/database/qtdb/) / used in ICML workshop paper: [LSTM-based Encoder-Decoder for Multi-sensor Anomaly Detection](https://arxiv.org/pdf/1607.00148.pdf)
+
+-The first channel from qtdb/sel102 dataset is used.
+
+[MIT-BIH Arrhythmia Database](https://www.physionet.org/physiobank/database/mitdb/)
+
+
 ## References
 
 #### Anomaly Detection
