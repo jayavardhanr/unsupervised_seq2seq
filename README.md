@@ -10,6 +10,15 @@
 
 [MIT-BIH Arrhythmia Database](https://www.physionet.org/physiobank/database/mitdb/)
 
+## Other implementations
+
+#### Hierarchical Multi-layer LSTM
+
+[Hierarchical Multiscale LSTM network](https://github.com/n-s-f/hierarchical-rnn) / implementation of "HIERARCHICAL MULTISCALE RECURRENT NEURAL NETWORKS"
+
+#### Stack LSTM
+
+[Stack LSTMs in TensorFlow](https://gist.github.com/kastnerkyle/90a6d0f6789e15c38e97) / simple stacking multi-layer LSTM
 
 ## References
 
